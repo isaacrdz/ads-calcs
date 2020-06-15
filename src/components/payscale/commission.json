@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "qualityLevel": 0,
+    "zeroStars": 59,
+    "oneStars": 60,
+    "twoStars": 61,
+    "threeStars": 62,
+    "fourStars": 62,
+    "fiveStars": 63
+  },
+  {
+    "id": 1,
+    "qualityLevel": 10,
+    "zeroStars": 61,
+    "oneStars": 62,
+    "twoStars": 63,
+    "threeStars": 64,
+    "fourStars": 64,
+    "fiveStars": 65
+  },
+  {
+    "id": 2,
+    "qualityLevel": 20,
+    "zeroStars": 64,
+    "oneStars": 64,
+    "twoStars": 65,
+    "threeStars": 66,
+    "fourStars": 67,
+    "fiveStars": 68
+  },
+  {
+    "id": 3,
+    "qualityLevel": 30,
+    "zeroStars": 66,
+    "oneStars": 66,
+    "twoStars": 67,
+    "threeStars": 68,
+    "fourStars": 69,
+    "fiveStars": 70
+  },
+  {
+    "id": 4,
+    "qualityLevel": 40,
+    "zeroStars": 68,
+    "oneStars": 69,
+    "twoStars": 70,
+    "threeStars": 70,
+    "fourStars": 71,
+    "fiveStars": 72
+  },
+  {
+    "id": 5,
+    "qualityLevel": 50,
+    "zeroStars": 72,
+    "oneStars": 73,
+    "twoStars": 74,
+    "threeStars": 75,
+    "fourStars": 76,
+    "fiveStars": 77
+  },
+  {
+    "id": 6,
+    "qualityLevel": 60,
+    "zeroStars": 74,
+    "oneStars": 75,
+    "twoStars": 76,
+    "threeStars": 77,
+    "fourStars": 78,
+    "fiveStars": 79
+  },
+  {
+    "id": 7,
+    "qualityLevel": 70,
+    "zeroStars": 77,
+    "oneStars": 78,
+    "twoStars": 78,
+    "threeStars": 79,
+    "fourStars": 80,
+    "fiveStars": 81
+  },
+  {
+    "id": 8,
+    "qualityLevel": 80,
+    "zeroStars": 79,
+    "oneStars": 80,
+    "twoStars": 81,
+    "threeStars": 82,
+    "fourStars": 83,
+    "fiveStars": 84
+  },
+  {
+    "id": 9,
+    "qualityLevel": 90,
+    "zeroStars": 81,
+    "oneStars": 82,
+    "twoStars": 83,
+    "threeStars": 84,
+    "fourStars": 85,
+    "fiveStars": 86
+  },
+  {
+    "id": 10,
+    "qualityLevel": 100,
+    "zeroStars": 83,
+    "oneStars": 84,
+    "twoStars": 85,
+    "threeStars": 86,
+    "fourStars": 87,
+    "fiveStars": 88
+  }
+]
